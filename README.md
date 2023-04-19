@@ -13,7 +13,7 @@ The application Box Office Crash is created for an entertaining movie game appli
 In order the run this application we require to use the (imdb and omdb ) movie database Application programming interface(Api) and libaries to build this apps more efficiently.
 
 Click the link to load the application:
-https://peaceful-hamlet-04081.herokuapp.com/login
+https://movie-knight.herokuapp.com/
 
 
 ## Usage
